@@ -1,0 +1,23 @@
+.entry-title{
+    text-align: center; 
+   color: white;
+}
+
+.entry-content{
+    display: flex;
+    justify-content: space-between;
+}
+.entry-content p{
+    width:80%;
+    color: #757575;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+}
+
+.entry-content img{
+    height: 200px;
+    float: left;
+    margin-right: 300px;
+    margin-top:25px;
+}
